@@ -1,2 +1,2 @@
-# utils-React
-utils functions for React
+# utils-hooks-React
+uils & hooks function for React
