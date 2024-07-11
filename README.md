@@ -1,4 +1,5 @@
-# utils-hooks-React
+# utils-hooks-js-React
+#### [TS](https://github.com/NFRIDOY/utils-hooks-ts-React)
 utils & hooks function for React & JavaScript Application
 
 ## useScrollToTop
